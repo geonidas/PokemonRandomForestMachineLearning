@@ -1,5 +1,5 @@
 # PokemonRandomForestMachineLearning
-A balanced team of Pokemon is essential when battling trainers in the world of Pokemon. Having a balanced team of Pokemon ensures that the members of the team can be effective against each others' weaknesses, be a good combination of offense and defense, and have supporting diverse attributes such as stats and moves. The purpose of our project is to create a Machine Learning Model that can create a balanced team of Pokemon.
+The purpose of this project was to implement a machine learning algorithm called Random Forest in order to predict a mystery pokemon.  The training process involves having one constant attacking Pokemon against a controlled set of defending Pokemon.  Based on the results of the attack, and calculations involving typing (not effective, normal effective, super effective, etc), we end up with a model that can predict a mystery defending Pokemon from any newly introduced set.
 
 # link to Kaggle dataset
 https://www.kaggle.com/n2cholas/competitive-pokemon-dataset?select=move-data.csv
